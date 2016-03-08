@@ -8,7 +8,8 @@ Result should be similar to this, alternatively you should also be able to see t
 e.g. http://localhost:8983/solr/#/duplicateTestCore/query and just run a q=*:* query there.
 
 If you have any questions do not hesitate to mail me: sr@littera.eu
-                                                                        
+
+```                                                                        
 ------------------------------------------------------------------------
 Building SolrDuplicateTest 1.0-SNAPSHOT
 ------------------------------------------------------------------------
@@ -44,3 +45,4 @@ Total time: 1.657s
 Finished at: Tue Mar 08 19:36:21 CET 2016
 Final Memory: 6M/245M
 ------------------------------------------------------------------------
+```
